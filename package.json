@@ -1,6 +1,6 @@
 {
   "name": "passport-kakao",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "kakao oauth2 login module",
   "main": "./dist/passport-kakao",
   "keywords": [
@@ -16,8 +16,8 @@
   "author": "rotoshine@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "pkginfo": "~0.3.0",
-    "passport-oauth2": "~1.1.2"
+    "passport-oauth2": "^1.6.1",
+    "pkginfo": "~0.3.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.3",
